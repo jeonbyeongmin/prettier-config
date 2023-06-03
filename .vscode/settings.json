@@ -1,0 +1,17 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.rulers": [120],
+
+  "prettier.configPath": "./prettier.config.js",
+  "prettier.prettierPath": ".yarn/sdks/prettier/index.js",
+
+  "files.trimTrailingWhitespace": true,
+  "javascript.preferences.importModuleSpecifier": "project-relative",
+  "javascript.preferences.quoteStyle": "single",
+
+  "search.exclude": {
+    "**/.pnp.*": true,
+    "**/.yarn": true
+  }
+}

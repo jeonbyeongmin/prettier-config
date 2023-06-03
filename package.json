@@ -1,0 +1,17 @@
+{
+  "name": "@jeonbyeongmin/prettier-config",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write .",
+    "sort": "npx sort-package-json"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  },
+  "peerDependencies": {
+    "prettier": "*"
+  },
+  "packageManager": "yarn@3.5.1"
+}
