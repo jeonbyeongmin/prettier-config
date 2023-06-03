@@ -1,10 +1,11 @@
 {
   "name": "@jeonbyeongmin/prettier-config",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "prettier.config.js"
   ],
   "scripts": {
     "prettier": "prettier --write .",
