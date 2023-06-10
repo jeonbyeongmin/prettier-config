@@ -7,5 +7,5 @@ npm install --save-dev @jeonbyeongmin/prettier-config prettier
 ```
 
 ```bash
-yarn install --dev @@jeonbyeongmin/prettier-config prettier
+yarn add --dev @@jeonbyeongmin/prettier-config prettier
 ```
