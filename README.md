@@ -23,7 +23,7 @@ yarn add --dev @jeonbyeongmin/prettier-config prettier
 ```js
 module.exports = {
   ...require("@jeonbyeongmin/prettier-config"),
-  // Input here to override config
+  // Add here to override config
   semi: false,
 };
 ```
